@@ -1,0 +1,5 @@
+config/rules.yaml
+__pycache__/
+*.db
+*.log
+.env
